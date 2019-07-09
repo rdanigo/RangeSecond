@@ -1,0 +1,17 @@
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\nunit.engine.dll
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\nunit.engine.api.dll
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\RangeSecondTest.dll
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\RangeSecondTest.pdb
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\nunit.framework.dll
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\RangeSecond.exe
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\RangeSecond.pdb
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\RangeSecond.exe.config
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\nunit.framework.pdb
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\bin\Debug\nunit.framework.xml
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\obj\Debug\RangeSecondTest.csprojAssemblyReference.cache
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\obj\Debug\RangeSecondTest.csproj.CoreCompileInputs.cache
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\obj\Debug\RangeSecondTest.csproj.CopyComplete
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\obj\Debug\RangeSecondTest.dll
+C:\Users\rdaniellagomez\source\repos\RangeSecond\RangeSecondTest\obj\Debug\RangeSecondTest.pdb
